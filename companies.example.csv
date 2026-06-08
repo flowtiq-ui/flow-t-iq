@@ -1,0 +1,9 @@
+# Liste der Betriebe fuer die Akquise.
+# WICHTIG: Nur Betriebe mit Bezug anschreiben (Empfehlung, Kontakt, Interesse) – UWG beachten.
+# So benutzen: diese Datei zu "companies.csv" kopieren und eigene Eintraege ergaenzen.
+# Spalten (genau diese Reihenfolge): firma,branche,email
+firma,branche,email
+Muster Maler AG,Handwerk (Malerei),info@muster-maler.example
+Beispiel Garten GmbH,Gartenbau,kontakt@beispiel-garten.example
+Demo Sanitaer AG,Handwerk (Sanitaer),offerten@demo-sanitaer.example
+Test Coaching,Dienstleistung (Coaching),hallo@test-coaching.example

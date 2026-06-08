@@ -1,0 +1,23 @@
+{
+  "name": "flowtiq-engine",
+  "version": "1.0.0",
+  "description": "Flowtiq Automatisierungs-Engine: liest Gmail, beantwortet mit KI, erstellt Akquise- und Instagram-Inhalte.",
+  "type": "module",
+  "scripts": {
+    "demo": "node index.js demo",
+    "start": "node index.js watch",
+    "watch": "node index.js watch",
+    "outreach": "node index.js outreach",
+    "instagram": "node index.js instagram"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "imapflow": "^1.0.164",
+    "mailparser": "^3.7.1",
+    "nodemailer": "^6.9.15"
+  }
+}
